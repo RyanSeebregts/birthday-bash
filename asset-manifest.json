@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/birthday-bash/static/css/main.36f388f8.css",
+    "main.js": "/birthday-bash/static/js/main.6644b895.js",
+    "static/js/787.77c07bde.chunk.js": "/birthday-bash/static/js/787.77c07bde.chunk.js",
+    "static/media/Formula1-Regular.otf": "/birthday-bash/static/media/Formula1-Regular.a5336cac9ba0fc563d1e.otf",
+    "static/media/Titillium-Semibold.otf": "/birthday-bash/static/media/Titillium-Semibold.01dfed7821c06010eaef.otf",
+    "index.html": "/birthday-bash/index.html",
+    "main.36f388f8.css.map": "/birthday-bash/static/css/main.36f388f8.css.map",
+    "main.6644b895.js.map": "/birthday-bash/static/js/main.6644b895.js.map",
+    "787.77c07bde.chunk.js.map": "/birthday-bash/static/js/787.77c07bde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36f388f8.css",
+    "static/js/main.6644b895.js"
+  ]
+}
